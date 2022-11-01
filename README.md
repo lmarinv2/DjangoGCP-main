@@ -2,10 +2,9 @@
 
 # Captura de pantalla de la cuenta de GCP
 
-![image](https://user-images.githubusercontent.com/53051440/199267816-870d6b58-cba2-4d81-8a64-934abdacb00a.png)
+![image](https://user-images.githubusercontent.com/53051440/199272271-be44df1d-edb7-4540-8e32-1bf40b732e4d.png)
 
-# Captura de pantalla de la máquina virtual creada en GCP, donde se
-vea la dirección IP externa
+# Captura de pantalla de la máquina virtual creada en GCP, donde se vea la dirección IP externa
 
 ![image](https://user-images.githubusercontent.com/53051440/199268422-ac71dd88-290b-464b-b67e-f365f6baffd9.png)
 
